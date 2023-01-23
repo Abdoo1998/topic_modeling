@@ -1,7 +1,7 @@
 # Topic Modeling with Latent Dirichlet Allocation (LDA) using scikit-learn
 ## This project demonstrates how to perform topic modeling using Latent Dirichlet Allocation (LDA) in Python with scikit-learn. The project uses the sklearn library for training the LDA model and pyLDAvis for visualizing the results.
 
-### Requirements
+Requirements
 Python 3.x
 pandas
 sklearn
@@ -11,7 +11,7 @@ matplotlib
 Data
 The dataset used in this project is a collection of articles in csv format, you can use your own dataset and adjust the code to fit your data.
 
-### Installation
+Installation
 Install the required libraries by running pip install -r requirements.txt
 Usage
 Run the topic_modeling_LDA_sklearn.py script to train the LDA model on the dataset.
